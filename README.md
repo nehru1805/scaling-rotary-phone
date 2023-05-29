@@ -1,2 +1,2 @@
 # scaling-rotary-phone
-This is firat project
+This is first project
